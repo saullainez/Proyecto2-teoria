@@ -1,0 +1,16 @@
+c:\users\lasd\documents\visual studio 2012\Projects\Proyecto2-Teoria\Proyecto2-Teoria\bin\Debug\Proyecto2-Teoria.exe.config
+C:\Users\lasd\Documents\Visual Studio 2012\Projects\Proyecto2-Teoria\Proyecto2-Teoria\bin\Debug\Proyecto2-Teoria.exe
+C:\Users\lasd\Documents\Visual Studio 2012\Projects\Proyecto2-Teoria\Proyecto2-Teoria\bin\Debug\Proyecto2-Teoria.pdb
+C:\Users\lasd\Documents\Visual Studio 2012\Projects\Proyecto2-Teoria\Proyecto2-Teoria\obj\Debug\Proyecto2-Teoria.csprojResolveAssemblyReference.cache
+C:\Users\lasd\Documents\Visual Studio 2012\Projects\Proyecto2-Teoria\Proyecto2-Teoria\obj\Debug\Proyecto2_Teoria.Properties.Resources.resources
+C:\Users\lasd\Documents\Visual Studio 2012\Projects\Proyecto2-Teoria\Proyecto2-Teoria\obj\Debug\Proyecto2-Teoria.csproj.GenerateResource.Cache
+C:\Users\lasd\Documents\Visual Studio 2012\Projects\Proyecto2-Teoria\Proyecto2-Teoria\obj\Debug\Proyecto2-Teoria.exe
+C:\Users\lasd\Documents\Visual Studio 2012\Projects\Proyecto2-Teoria\Proyecto2-Teoria\obj\Debug\Proyecto2-Teoria.pdb
+C:\Users\lasd\Documents\Visual Studio 2012\Projects\Proyecto2-Teoria\Proyecto2-Teoria\obj\Debug\Proyecto2_Teoria.FrmAdministrar.resources
+C:\Users\lasd\Documents\Visual Studio 2012\Projects\Proyecto2-Teoria\Proyecto2-Teoria\obj\Debug\Proyecto2_Teoria.FrmPrincipal.resources
+C:\Users\lasd\Documents\Visual Studio 2012\Projects\Proyecto2-Teoria\Proyecto2-Teoria\obj\Debug\Proyecto2_Teoria.FrmUsuario.resources
+C:\Users\lasd\Documents\Visual Studio 2012\Projects\Proyecto2-Teoria\Proyecto2-Teoria\obj\Debug\Proyecto2_Teoria.FrmCalcularViaje.resources
+C:\Users\lasd\Documents\Visual Studio 2012\Projects\Proyecto2-Teoria\Proyecto2-Teoria\bin\Debug\Proyecto2-Teoria.exe.manifest
+C:\Users\lasd\Documents\Visual Studio 2012\Projects\Proyecto2-Teoria\Proyecto2-Teoria\bin\Debug\Proyecto2-Teoria.application
+C:\Users\lasd\Documents\Visual Studio 2012\Projects\Proyecto2-Teoria\Proyecto2-Teoria\obj\Debug\Proyecto2-Teoria.exe.manifest
+C:\Users\lasd\Documents\Visual Studio 2012\Projects\Proyecto2-Teoria\Proyecto2-Teoria\obj\Debug\Proyecto2-Teoria.application
