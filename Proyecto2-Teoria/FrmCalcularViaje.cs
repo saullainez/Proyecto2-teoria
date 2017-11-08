@@ -16,5 +16,11 @@ namespace Proyecto2_Teoria
         {
             InitializeComponent();
         }
+
+        private void btnCalcular_Click(object sender, EventArgs e)
+        {
+            lblResultado.Visible = true;
+            tbRespuesta.Visible = true;
+        }
     }
 }
